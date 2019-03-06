@@ -1,0 +1,5 @@
+APP_NAME: recording-developer
+MS_NAME: recording
+BRANCH: master
+GIT_SOURCE_URL: https://github.com/himanshumps/recording.git
+SONAR_HOST_URL: http://sonar-recording-developer-cicd.52.172.12.252.nip.io
